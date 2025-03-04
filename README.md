@@ -67,7 +67,7 @@ I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.
 
 ## 📈 Contribution Graph  
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shakhoyat&theme=tokyo-night)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shakhoyat&theme=tokyo-night)
 
 ---
 
