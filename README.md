@@ -24,6 +24,16 @@ I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
+---## 💻 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhoyat&layout=compact&theme=tokyonight" width="48%" alt="Most Used Languages" />
+</p>
+
+## 📈 Contribution Graph  
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shakhoyat&theme=tokyo-night)
+
 ---
 
 ## 🤖 Machine Learning & Datathons  
@@ -56,18 +66,6 @@ I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.
   <img src="https://github-readme-stats.vercel.app/api?username=Shakhoyat&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Shakhoyat&theme=tokyonight" width="48%" alt="GitHub Streak Stats" />
 </p>
-
----
-
-## 💻 Most Used Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhoyat&layout=compact&theme=tokyonight" width="48%" alt="Most Used Languages" />
-</p>
-
-## 📈 Contribution Graph  
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shakhoyat&theme=tokyo-night)
 
 ---
 
