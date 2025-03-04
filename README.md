@@ -13,18 +13,40 @@ I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-### **Web Development**  
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+### **Web Development (Ongoing 🚀)**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![React (Ongoing)](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
-### **Databases & Tools**  
+### **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+---
+
+## 🤖 Machine Learning & Datathons  
+
+### **ML & Data Science Libraries**  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-008080?style=flat-square&logo=seaborn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) (very soon)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) (very soon)
+
+### **Machine Learning Algorithms**  
+✔️ Supervised Learning: Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM  
+✔️ Unsupervised Learning: K-Means, DBSCAN, Hierarchical Clustering, PCA  
+✔️ Deep Learning: CNN, RNN, LSTMs, GANs  
+✔️ NLP: Tokenization, TF-IDF, Transformers  
+
+### **Data Cleaning & Feature Engineering**  
+✔️ Handling Missing Data, Outliers, Normalization  
+✔️ Feature Selection & Dimensionality Reduction  
+✔️ Encoding Categorical Data, One-Hot Encoding  
 
 ---
 
