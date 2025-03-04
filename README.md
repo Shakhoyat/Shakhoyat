@@ -1,6 +1,6 @@
-# Hi there, I'm skt 👋  
+# Hi there, I'm Shakhoyat 👋  
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer & Data Science Enthusiast** 🚀.  
+I'm a passionate **Full Stack Developer & Data Science Enthusiast** 🚀.  
 I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.  
 
 ---
@@ -32,8 +32,8 @@ I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.
 
 ## 📫 Connect with Me  
 📌 **Portfolio:** [your-portfolio-link]  
-📩 **Email:** [your-email]  
-💬 **LinkedIn:** [your-linkedin-link]  
+📩 **Email:** (skt104.shujon@gmail.com) 
+💬 **LinkedIn:** (https://www.linkedin.com/in/shakhoyat-shujon-313ba5336/)  
 
 ---
 
