@@ -7,26 +7,26 @@ I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight" width="48%" />
-</div>
+<p align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight)
+</p>
 
 ---
 
 ## 💻 Most Used Languages  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="48%" />
-</div>
+<p align="center">
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements  
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-bg=true&no-frame=true" width="80%" />
-</div>
+<p align="center">
+  ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-bg=true&no-frame=true)
+</p>
 
 ---
 
