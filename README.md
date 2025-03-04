@@ -1,4 +1,4 @@
-# Hi there, I'm Skt 👋  
+# Hi there, I'm skt 👋  
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer & Data Science Enthusiast** 🚀.  
 I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.  
@@ -8,8 +8,8 @@ I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakhoyat&show_icons=true&theme=tokyonight)
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Shakhoyat&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=Shakhoyat&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Shakhoyat&theme=tokyonight" width="48%" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -17,7 +17,7 @@ I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.
 ## 💻 Most Used Languages  
 
 <p align="center">
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhoyat&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhoyat&layout=compact&theme=tokyonight" width="48%" alt="Most Used Languages" />
 </p>
 
 ---
@@ -25,15 +25,15 @@ I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Shakhoyat&theme=tokyonight&no-bg=true&no-frame=true)
+  <img src="https://github-profile-trophy.vercel.app/?username=Shakhoyat&theme=tokyonight&no-bg=true&no-frame=true" width="80%" alt="GitHub Achievements" />
 </p>
 
 ---
 
 ## 📫 Connect with Me  
-💼 **Portfolio:** very soon  
-📩 **Email:** skt104.shujon@gmail.com
-💬 **LinkedIn:** https://www.linkedin.com/in/shakhoyat-shujon-313ba5336/  
+📌 **Portfolio:** [your-portfolio-link]  
+📩 **Email:** [your-email]  
+💬 **LinkedIn:** [your-linkedin-link]  
 
 ---
 
