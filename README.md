@@ -67,14 +67,6 @@ I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.
 
 ---
 
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shakhoyat&theme=tokyonight&no-bg=true&no-frame=true" width="80%" alt="GitHub Achievements" />
-</p>
-
----
-
 ## 📫 Connect with Me  
 📌 **Portfolio:** _Work in progress_  
 📩 **Email:** [skt104.shujon@gmail.com](mailto:skt104.shujon@gmail.com)  
