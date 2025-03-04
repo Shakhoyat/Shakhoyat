@@ -65,6 +65,12 @@ I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhoyat&layout=compact&theme=tokyonight" width="48%" alt="Most Used Languages" />
 </p>
 
+## 📈 Contribution Graph  
+
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Shakhoyat&theme=tokyonight" width="100%" alt="Contribution Graph" />
+</p>
+
 ---
 
 ## 📫 Connect with Me  
