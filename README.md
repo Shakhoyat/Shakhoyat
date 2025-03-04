@@ -40,10 +40,10 @@ I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.
 ### **Machine Learning Algorithms**  
 ✔️ Supervised Learning: Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM  
 ✔️ Unsupervised Learning: K-Means, DBSCAN, Hierarchical Clustering, PCA  
-✔️ Deep Learning: CNN, RNN, LSTMs, GANs  
-✔️ NLP: Tokenization, TF-IDF, Transformers  
+✔️ Deep Learning: CNN, RNN, LSTMs, GANs  (very soon)
+✔️ NLP: Tokenization, TF-IDF, Transformers(very soon)  
 
-### **Data Cleaning & Feature Engineering**  
+### **Data Cleaning & Feature Engineering** (on going)  
 ✔️ Handling Missing Data, Outliers, Normalization  
 ✔️ Feature Selection & Dimensionality Reduction  
 ✔️ Encoding Categorical Data, One-Hot Encoding  
