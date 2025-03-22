@@ -24,7 +24,8 @@ I love working with **Java, C++, ASP.NET, JavaScript, and Data Science**.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
----## 💻 Most Used Languages  
+---
+## 💻 Most Used Languages  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhoyat&layout=compact&theme=tokyonight" width="48%" alt="Most Used Languages" />
