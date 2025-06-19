@@ -1,122 +1,106 @@
-# Shakhoyat Shujon
-
-**Data Scientist | Machine Learning Engineer | Computer Science Engineering Student**
-
-Driven data science professional with expertise in statistical modeling, machine learning, and IoT systems integration. Currently completing Computer Science Engineering at KUET with 4 semesters remaining, while building industry experience through competitive programming (600+ problems solved), data science competitions, and full-stack development projects.
-
-## Professional Summary
-
-Combining strong analytical foundations with practical software engineering skills to deliver data-driven solutions. Experienced in end-to-end machine learning workflows, from data preprocessing and feature engineering to model deployment and monitoring. Actively expanding expertise through Kaggle competitions and IoT-integrated predictive systems.
-
-## Core Competencies
-
-### Data Science & Analytics
-- **Statistical Analysis**: Hypothesis testing, regression analysis, experimental design
-- **Machine Learning**: Supervised/unsupervised learning, ensemble methods, model evaluation
-- **Data Engineering**: ETL pipelines, data preprocessing, feature engineering
-- **Visualization**: Statistical graphics, dashboard development, exploratory data analysis
-
-### Technical Proficiencies
-- **Programming**: Python, R, SQL, Java, C++, JavaScript
-- **ML Libraries**: Scikit-learn, TensorFlow, PyTorch, XGBoost, Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn, Plotly, Tableau, Power BI concepts
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud & Tools**: Jupyter, Google Colab, Git, Docker concepts
-
-### Specialized Areas
-- **IoT Integration**: Sensor data collection, real-time analytics, edge computing
-- **Web Development**: Full-stack applications with integrated ML models
-- **Competitive Programming**: Algorithm optimization and problem-solving
-
-## Featured Projects
-
-### Healthcare Analytics Platform
-**Technologies**: Java, MySQL, Statistical Analysis  
-**Objective**: Developed appointment optimization system with predictive resource allocation  
-**Impact**: Implemented real-time availability algorithms and payment processing integration  
-**Results**: Streamlined healthcare booking process with data-driven insights
-
-### Interactive Data Analysis Platform  
-**Technologies**: Python, Streamlit, Pandas, Statistical Libraries  
-**Objective**: Created automated exploratory data analysis pipeline  
-**Impact**: Enabled rapid data profiling and statistical insights for multiple datasets  
-**Results**: Reduced data exploration time by 70% through automated visualization
-
-### Weather Intelligence Dashboard
-**Technologies**: React, APIs, Time-series Analysis  
-**Objective**: Built comprehensive weather analytics and forecasting system  
-**Impact**: Integrated geospatial analysis with predictive modeling capabilities  
-**Results**: Delivered real-time weather insights with forecasting accuracy
-
-## Professional Development
-
-### Current Initiatives
-- **Kaggle Competitions**: Active participant building predictive modeling expertise
-- **IoT Research**: Developing smart sensor networks with ML-powered analytics  
-- **Industry Preparation**: Focusing on scalable ML solutions and deployment strategies
-
-### Academic Foundation
-- **Computer Science Engineering** at Khulna University of Engineering & Technology
-- **Competitive Programming**: 600+ problems solved across multiple platforms
-- **Research Interest**: Machine learning applications in IoT and healthcare systems
-
-## Technical Certifications & Learning Path
-
-**Completed**
-- Advanced statistical analysis and hypothesis testing
-- Machine learning algorithms and model evaluation
-- Full-stack web development with database integration
-
-**In Progress**
-- Deep learning and neural network architectures
-- MLOps and model deployment pipelines
-- Advanced time-series forecasting techniques
-
-## GitHub Statistics
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakhoyat&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+# Shakhoyat Shujon
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhoyat&layout=compact&theme=default&hide_border=true&langs_count=8)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;IoT+%2B+Machine+Learning+Specialist;Competitive+Programmer+%7C+600%2B+Problems;Building+Intelligent+Systems)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shakhoyat&color=58A6FF&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Shakhoyat?label=Followers&style=social)](https://github.com/Shakhoyat?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Shakhoyat?label=Stars&style=social)](https://github.com/Shakhoyat?tab=repositories)
 
 </div>
 
-## Professional Engagement
+Data science professional with expertise in machine learning, statistical analysis, and IoT systems. Currently completing Computer Science Engineering at KUET with strong foundations in competitive programming and full-stack development.
 
-**Community Involvement**
-- Kaggle Community Member: [@shakhoyatshujon](https://www.kaggle.com/shakhoyatshujon)
-- Open Source Contributions: Actively contributing to data science repositories
-- Technical Writing: Documenting ML workflows and best practices
+## 🛠️ Technical Skills
 
-**Competition Experience**
-- Multiple hackathon participations with data-focused solutions
-- Datathon competitor specializing in predictive analytics
-- Algorithm optimization through competitive programming
+<div align="center">
 
-## Career Objectives
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Immediate Goals** (6-12 months)
-- Secure data science internship with focus on machine learning applications
-- Achieve Kaggle competition rankings through advanced modeling techniques
-- Complete academic requirements while building industry-relevant portfolio
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**Long-term Vision** (2-3 years)
-- Transition to full-time data scientist role in technology or healthcare sector
-- Specialize in MLOps and scalable machine learning systems
-- Contribute to research in IoT-integrated predictive analytics
+### Visualization & Tools
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## Contact Information
+### Databases & Development
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Email**: [skt104.shujon@gmail.com](mailto:skt104.shujon@gmail.com)  
-**LinkedIn**: [linkedin.com/in/shakhoyat-shujon-313ba5336](https://www.linkedin.com/in/shakhoyat-shujon-313ba5336/)  
-**Kaggle**: [kaggle.com/shakhoyatshujon](https://www.kaggle.com/shakhoyatshujon)  
-**GitHub**: [github.com/Shakhoyat](https://github.com/Shakhoyat)
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Impact |
+|---------|------------|--------|
+| **🏥 Healthcare Analytics Platform** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Appointment optimization with predictive resource allocation |
+| **📊 Data Analysis Platform** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | Automated EDA pipeline reducing exploration time by 70% |
+| **🌤️ Weather Intelligence Dashboard** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![APIs](https://img.shields.io/badge/APIs-FF6B6B?style=flat-square) | Real-time analytics with geospatial forecasting |
+
+</div>
+
+## 🎯 Professional Focus
+
+<div align="center">
+
+| 🔄 Current | 🎯 Goals | 💡 Interests |
+|------------|----------|--------------|
+| Kaggle competitions | Data science internship | Healthcare analytics |
+| IoT-ML integration | Advanced modeling | Predictive systems |
+| Academic excellence | MLOps specialization | Algorithm optimization |
+
+</div>
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakhoyat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shakhoyat&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhoyat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shakhoyat&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9)
+
+</div>
+
+## 📫 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-skt104.shujon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skt104.shujon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shakhoyat_Shujon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakhoyat-shujon-313ba5336/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-shakhoyatshujon-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shakhoyatshujon)
+[![Twitter](https://img.shields.io/badge/Twitter-@skt__rahman-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/skt_rahman)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Passionate about leveraging data science to solve complex business challenges and drive informed decision-making.*
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+*Transforming data into actionable insights through machine learning and statistical analysis*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Shakhoyat-181717?style=flat-square&logo=github)](https://github.com/Shakhoyat)
 
 </div>
