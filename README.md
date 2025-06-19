@@ -8,10 +8,11 @@ I’ve contributed to **hackathons**, **datathons**, solved **600+ competitive p
 
 ## 🔹 Featured Projects
 
-Here are some of the projects I’m proud to showcase:
+A few highlights from my recent work:
 
-- [ClimaSKT ⛅️](https://github.com/Shakhoyat/climaSKT): A real-time weather app using React, Shadcn UI & TanStack Query
-- [Streamlit Data App 📊](https://github.com/Shakhoyat/python-website-with-streamlit101): A web tool for CSV uploads, EDA, and visualizations using Streamlit
+- [DocDirect 🩺](https://github.com/Shakhoyat/docdirect): A robust JavaFX desktop app for doctor appointment bookings. Includes MySQL database integration, real-time availability, doctor APIs, bKash/Nagad/Rocket payment gateway support, and flexible healthcare subscription packages. Inspired by Praava Health.
+- [ClimaSKT ⛅️](https://github.com/Shakhoyat/climaSKT): A modern weather dashboard with geolocation, forecast, dark/light mode, built using React, Shadcn UI & TanStack Query.
+- [Streamlit Data App 📊](https://github.com/Shakhoyat/python-website-with-streamlit101): A web-based interactive data explorer for CSV uploads and EDA built with Streamlit.
 
 ---
 
@@ -57,9 +58,9 @@ Here are some of the projects I’m proud to showcase:
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 
 ### Concepts  
-- Supervised: Linear & Logistic Regression, Decision Trees, Random Forest, SVM
-- Unsupervised: K-Means, DBSCAN, PCA
-- Deep Learning: CNNs, RNNs *(in progress)*
+- Supervised: Linear & Logistic Regression, Decision Trees, Random Forest, SVM  
+- Unsupervised: K-Means, DBSCAN, PCA  
+- Deep Learning: CNNs, RNNs *(in progress)*  
 - NLP: Tokenization, TF-IDF, Transformers *(upcoming)*
 
 ---
