@@ -65,8 +65,6 @@ Data science professional with expertise in machine learning, statistical analys
 
 ## 🎯 Professional Focus
 
-## 🎯 Professional Focus
-
 <div align="center">
 
 | 🔄 **Current Focus** | 🚀 **Exploration** | 💡 **Future Direction** |
