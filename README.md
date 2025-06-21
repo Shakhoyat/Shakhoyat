@@ -65,15 +65,17 @@ Data science professional with expertise in machine learning, statistical analys
 
 ## 🎯 Professional Focus
 
+## 🎯 Professional Focus
+
 <div align="center">
 
-| 🔄 Current | 🎯 Goals | 💡 Interests |
-|------------|----------|--------------|
-| Kaggle competitions | Data science internship | Healthcare analytics |
-| IoT-ML integration | MERN stack mastery | Predictive systems |
-| Next.js learning | MLOps specialization | Algorithm optimization |
+| 🔄 **Current Focus** | 🚀 **Exploration** | 💡 **Future Direction** |
+|:--------------------:|:-----------------:|:----------------------:|
+| Participating in Kaggle competitions and building EDA pipelines with Python, Pandas, and OpenCV | Experimenting with IoT devices and integrating sensor data with ML models | Advancing skills in REST APIs and Next.js for deploying scalable, end-to-end ML applications |
+| Collaborating on open-source data science projects | Researching edge computing for real-time analytics | Exploring cloud platforms (AWS, GCP) for production ML workflows |
 
 </div>
+
 
 ## GitHub Activity
 
