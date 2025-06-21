@@ -57,9 +57,9 @@ Data science professional with expertise in machine learning, statistical analys
 
 | Project | Tech Stack | Impact |
 |---------|------------|--------|
-| **🏥 Healthcare Analytics Platform** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Appointment optimization with predictive resource allocation |
+| **🏥 Doctor Appointment Desktop App** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Appointment optimization with predictive resource allocation |
 | **📊 Data Analysis Platform** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | Automated EDA pipeline reducing exploration time by 70% |
-| **🌤️ Weather Intelligence Dashboard** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-FF6B6B?style=flat-square) | Real-time analytics with geospatial forecasting |
+| **🌤️ Weather Observation WebApp** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-FF6B6B?style=flat-square) | Real-time analytics with geospatial forecasting |
 
 </div>
 
