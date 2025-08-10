@@ -2,7 +2,7 @@
 
 # Shakhoyat Shujon
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;IoT+%2B+Machine+Learning+Specialist;Competitive+Programmer+%7C+600%2B+Problems;Building+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+%7C+Passionate+about+Deep+Learning;IoT+%2B+ML+Research+Enthusiast;Kaggle+Competitor;Problem+Solver+%7C%7C+Solved+700%2B+Problems)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shakhoyat&color=58A6FF&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/Shakhoyat?label=Followers&style=social)](https://github.com/Shakhoyat?tab=followers)
@@ -10,7 +10,7 @@
 
 </div>
 
-Data science professional with expertise in machine learning, statistical analysis, and IoT systems. Currently completing Computer Science Engineering at KUET with strong foundations in competitive programming and full-stack development.
+Computer Science Engineering student at KUET specializing in data science, machine learning, and IoT systems. Active in competitive programming and Kaggle competitions with a focus on building intelligent solutions.
 
 ## 🛠️ Technical Skills
 
