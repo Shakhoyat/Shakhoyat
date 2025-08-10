@@ -2,7 +2,7 @@
 
 # Shakhoyat Shujon
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+%7C+Passionate+about+Deep+Learning;IoT+%2B+ML+Research+Enthusiast;Kaggle+Competitor;Problem+Solver+%7C%7C+Solved+700%2B+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist+%7C+Passionate+about+Deep+Learning;IoT+%2B+ML+Research+Enthusiast;Kaggle+Competitor;Problem+Solver+%7C%7C+Solved+700%2B+Problems)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shakhoyat&color=58A6FF&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/Shakhoyat?label=Followers&style=social)](https://github.com/Shakhoyat?tab=followers)
