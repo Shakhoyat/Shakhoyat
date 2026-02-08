@@ -1,70 +1,66 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Shakhoyat%20Shujon&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 
-# 👨‍💻 Shakhoyat Shujon
-**Computer Science & Engineering Student @ KUET**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Deep+Learning+Enthusiast;700%2B+Problems+Solved;Kaggle+Competitor)](https://git.io/typing-svg)
-
----
-
-### 💫 About Me
-I am a CSE student specializing in **Machine Learning**, **Data Science**, and **IoT Systems**. 
-I thrive on turning complex datasets into actionable insights and building intelligent, scalable solutions.
-
-[Portfolio Coming Soon] | [Read My Blog] | [Hire Me]
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Scientist+In+The+Making;Machine+Learning+%26+IoT+Research;Competitive+Programmer;700%2B+Problems+Solved)](https://git.io/typing-svg)
 </div>
 
-## 🛠️ Technical Ecosystem
-
-### 🧠 Data Science & Machine Learning
-`Python` `TensorFlow` `PyTorch` `Scikit-Learn` `Pandas` `NumPy` `OpenCV` `Matplotlib` `Plotly`
-
-### 🌐 Full-Stack Development
-`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express` `Java` `C++`
-
-### 🗄️ Databases & Infrastructure
-`MySQL` `PostgreSQL` `MongoDB` `Git` `Jupyter` `Streamlit`
+### 🧬 Professional Profile
+I am a **Computer Science & Engineering student at KUET** dedicated to bridging the gap between hardware (IoT) and intelligence (ML). My work focuses on building end-to-end data pipelines and deploying predictive models that solve real-world optimization problems.
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ The Stack Matrix
 
-| Project | Tech Stack | Key Outcome |
-| :--- | :--- | :--- |
-| **🏥 Doctor Appointment System** | `Java`, `JavaFX`, `MySQL` | Optimized resource allocation using predictive logic. |
-| **📊 EDA Automation Pipeline** | `Python`, `Streamlit`, `Pandas` | Reduced data exploration time by 70% for standard datasets. |
-| **🌤️ Weather Analytics WebApp** | `React`, `TypeScript`, `APIs` | Real-time geospatial forecasting with 90%+ API uptime. |
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Science & ML** | `Python` `TensorFlow` `PyTorch` `Pandas` `NumPy` `Scikit-Learn` `OpenCV` |
+| **Visualization & EDA** | `Matplotlib` `Seaborn` `Plotly` `Streamlit` `Tableau` |
+| **Software Engineering** | `C++` `Java` `TypeScript` `React` `Next.js` `Node.js` |
+| **Infrastructure** | `Git` `Docker` `MySQL` `PostgreSQL` `MongoDB` `Linux` |
 
 ---
 
-## 📊 GitHub Analytics
-*Note: If these cards don't appear, ensure your GitHub handle is exactly **Shakhoyat**.*
+### 🚀 High-Impact Projects
 
+#### 🏥 Smart Health: Doctor Appointment Optimization
+* **Role:** Lead Developer (Java, MySQL, JavaFX)
+* **Impact:** Developed a predictive resource allocation algorithm to reduce patient wait times.
+* **Key Tech:** JDBC, Multi-threading, SQL optimization.
+
+#### 📊 Auto-EDA: Automated Insights Platform
+* **Role:** ML Engineer (Python, Streamlit)
+* **Impact:** Built a pipeline that automates data cleaning and statistical visualization, reducing initial research time by 70%.
+* **Key Tech:** Statistical Modeling, Pandas Profiling, Geospatial Analysis.
+
+---
+
+### 📉 Quantifiable Metrics & Activity
+*(If stats aren't loading, verify your GitHub username is **Shakhoyat** in the settings)*
+
+<table align="center">
+  <tr>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Shakhoyat&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" /></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhoyat&layout=compact&theme=radical&hide_border=true" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakhoyat&theme=github-compact&hide_border=true&color=58A6FF" width="100%" /></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shakhoyat&theme=radical&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 📬 Let's Collaborate
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shakhoyat&show_icons=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhoyat&layout=compact&theme=transparent&title_color=58A6FF&text_color=C9D1D9&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Shakhoyat&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" width="100%" />
+| [LinkedIn](https://www.linkedin.com/in/shakhoyat-shujon-313ba5336/) | [Kaggle](https://www.kaggle.com/shakhoyatshujon) | [Email](mailto:skt104.shujon@gmail.com) | [Twitter](https://x.com/skt_rahman) |
+| :---: | :---: | :---: | :---: |
 
 </div>
 
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakhoyat-shujon-313ba5336/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/shakhoyatshujon)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:skt104.shujon@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/skt__rahman)
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-
-*“Transforming data into intelligence, one line of code at a time.”*
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
+</p>
