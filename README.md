@@ -1,66 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Shakhoyat%20Shujon&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Data+Scientist+In+The+Making;Machine+Learning+%26+IoT+Research;Competitive+Programmer;700%2B+Problems+Solved)](https://git.io/typing-svg)
+# Shakhoyat Shujon
+
+**CSE @ KUET · NLP Research · Full-Stack**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakhoyat-shujon-313ba5336/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/shakhoyatshujon)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:skt104.shujon@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/skt_rahman)
+
 </div>
 
-### 🧬 Professional Profile
-I am a **Computer Science & Engineering student at KUET** dedicated to bridging the gap between hardware (IoT) and intelligence (ML). My work focuses on building end-to-end data pipelines and deploying predictive models that solve real-world optimization problems.
+---
+
+### Featured Research
+
+**PAST-TIDE** — *LREC-COLING 2026 (NakbaNLP Workshop)*
+Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for multilingual stance detection. Reuses the pre-trained MLM head as a zero-parameter classifier, achieving **0.79 macro-F1** on both English and Arabic subtasks.
+[`Paper`](https://github.com/Shakhoyat/PAST-TIDE) · [`Code`](https://github.com/Shakhoyat/PAST-TIDE)
 
 ---
 
-### 🛠️ The Stack Matrix
+### Selected Projects
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Data Science & ML** | `Python` `TensorFlow` `PyTorch` `Pandas` `NumPy` `Scikit-Learn` `OpenCV` |
-| **Visualization & EDA** | `Matplotlib` `Seaborn` `Plotly` `Streamlit` `Tableau` |
-| **Software Engineering** | `C++` `Java` `TypeScript` `React` `Next.js` `Node.js` |
-| **Infrastructure** | `Git` `Docker` `MySQL` `PostgreSQL` `MongoDB` `Linux` |
-
----
-
-### 🚀 High-Impact Projects
-
-#### 🏥 Smart Health: Doctor Appointment Optimization
-* **Role:** Lead Developer (Java, MySQL, JavaFX)
-* **Impact:** Developed a predictive resource allocation algorithm to reduce patient wait times.
-* **Key Tech:** JDBC, Multi-threading, SQL optimization.
-
-#### 📊 Auto-EDA: Automated Insights Platform
-* **Role:** ML Engineer (Python, Streamlit)
-* **Impact:** Built a pipeline that automates data cleaning and statistical visualization, reducing initial research time by 70%.
-* **Key Tech:** Statistical Modeling, Pandas Profiling, Geospatial Analysis.
+| Project | What it does | Stack |
+|:--------|:-------------|:------|
+| [**animatronic-eye-mechanism**](https://github.com/Shakhoyat/animatronic-eye-mechanism) | AI-powered animatronic eyes — MediaPipe face tracking + ESP32 servo control | Python, C++ |
+| [**DocDirect**](https://github.com/Shakhoyat/DocDirect) | Healthcare appointment system with real-time scheduling & payment | Java, MySQL |
+| [**Amar-Socrative-quiz**](https://github.com/Shakhoyat/Amar-Socrative-quiz) | Socratic-method quiz platform for OOP concepts | React, Vite |
+| [**clima_skt**](https://github.com/Shakhoyat/clima_skt-react-project) | Weather dashboard with geolocation & dark/light UI | TypeScript, React |
 
 ---
 
-### 📉 Quantifiable Metrics & Activity
-*(If stats aren't loading, verify your GitHub username is **Shakhoyat** in the settings)*
+### Tech
 
-<table align="center">
-  <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Shakhoyat&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" /></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhoyat&layout=compact&theme=radical&hide_border=true" alt="Languages" /></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakhoyat&theme=github-compact&hide_border=true&color=58A6FF" width="100%" /></td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shakhoyat&theme=radical&hide_border=true" width="100%" />
-</p>
+`Python` `PyTorch` `Transformers` `C++` `Java` `TypeScript` `React` `Node.js` `MySQL` `Docker` `Git`
 
 ---
 
-### 📬 Let's Collaborate
 <div align="center">
 
-| [LinkedIn](https://www.linkedin.com/in/shakhoyat-shujon-313ba5336/) | [Kaggle](https://www.kaggle.com/shakhoyatshujon) | [Email](mailto:skt104.shujon@gmail.com) | [Twitter](https://x.com/skt_rahman) |
-| :---: | :---: | :---: | :---: |
+<img src="https://github-readme-stats.vercel.app/api?username=Shakhoyat&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true&hide_rank=true" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhoyat&layout=compact&theme=default&hide_border=true" height="140" />
 
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-</p>
