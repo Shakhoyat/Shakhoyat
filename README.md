@@ -2,7 +2,7 @@
 
 # Shakhoyat Shujon
 
-**CSE @ KUET · Founder@KMiNDS . Data Science · NLP Research · Full-Stack**
+**CSE @ KUET  · Founder @ KMiNDS  . Data Science  · NLP Research  · Full-Stack**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shakhoyat-rahman-shujon-3b20083a6/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/shakhoyatshujon)
