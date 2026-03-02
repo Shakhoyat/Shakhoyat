@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shakhoyat Shujon
+# Md. Shakhoyat Rahman Shujon
 
 **CSE @ KUET  · Founder @ KMiNDS  . Data Science  · NLP Research  · Full-Stack**
 
