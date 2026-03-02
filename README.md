@@ -2,10 +2,11 @@
 
 # Shakhoyat Shujon
 
-**CSE @ KUET · NLP Research · Full-Stack**
+**CSE @ KUET · Founder@KMiNDS . Data Science · NLP Research · Full-Stack**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakhoyat-shujon-313ba5336/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shakhoyat-rahman-shujon-3b20083a6/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/shakhoyatshujon)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@skt104.shujon)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:skt104.shujon@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/skt_rahman)
 
@@ -21,17 +22,6 @@ Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for multi
 
 ---
 
-### Selected Projects
-
-| Project | What it does | Stack |
-|:--------|:-------------|:------|
-| [**animatronic-eye-mechanism**](https://github.com/Shakhoyat/animatronic-eye-mechanism) | AI-powered animatronic eyes — MediaPipe face tracking + ESP32 servo control | Python, C++ |
-| [**DocDirect**](https://github.com/Shakhoyat/DocDirect) | Healthcare appointment system with real-time scheduling & payment | Java, MySQL |
-| [**Amar-Socrative-quiz**](https://github.com/Shakhoyat/Amar-Socrative-quiz) | Socratic-method quiz platform for OOP concepts | React, Vite |
-| [**clima_skt**](https://github.com/Shakhoyat/clima_skt-react-project) | Weather dashboard with geolocation & dark/light UI | TypeScript, React |
-
----
-
 ### Tech
 
 `Python` `PyTorch` `Transformers` `C++` `Java` `TypeScript` `React` `Node.js` `MySQL` `Docker` `Git`
@@ -42,5 +32,7 @@ Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for multi
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shakhoyat&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true&hide_rank=true" height="140" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhoyat&layout=compact&theme=default&hide_border=true" height="140" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakhoyat&theme=github-light&hide_border=true&area=true" width="95%" />
 
 </div>
